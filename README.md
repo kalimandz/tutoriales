@@ -1,5 +1,5 @@
 # tutoriales
-guías de python
+###Listas
 
 Una lista es una serie de valores separados por coma que van entre corchetes.
 Estos valores pueden ser de cualquier tipo, int, float, str, etc.
